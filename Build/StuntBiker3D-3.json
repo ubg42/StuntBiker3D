@@ -1,7 +1,7 @@
 {
 "companyName": "Stunt Biker 3D",
 "productName": "Stunt Biker 3D",
-"dataUrl": "StuntBiker3D-3.data.unityweb",
+"dataUrl": "https://github.com/ubg42/StuntBiker3D/raw/refs/heads/gh-pages/Build/StuntBiker3D-3.data.unityweb",
 "wasmCodeUrl": "StuntBiker3D-3.wasm.code.unityweb",
 "wasmFrameworkUrl": "StuntBiker3D-3.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
